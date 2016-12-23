@@ -8,8 +8,6 @@
 * Webpack
 * Angular CLI
 * Git, NodeJS, npm
-
-
 * File structure and basic files (index.html, main - entry, module, component, scss, html), Bootstraping, NgModule, Feature modules
 * Components
   * Component tree (smart and dummy components)
