@@ -36,3 +36,4 @@
 * Routing
 * Ngrx (redux)
 * Internationalization
+* Material
