@@ -1,7 +1,9 @@
 # Angular Slovenia workshops
 
 ### 0 - Baisc tools (only reading material)
-Git, NodeJS, NPM, yarn
+* Git
+* NodeJS andNPM
+* yarn
 
 ### 1 - ES6
 
