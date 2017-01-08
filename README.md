@@ -69,7 +69,7 @@
 **Directives**
 * Custom directives
 
-**Modules****
+**Modules**
 * Dependecy Injection
 * NgModule
 * Feature module
