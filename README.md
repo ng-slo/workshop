@@ -5,17 +5,19 @@
 * NodeJS andNPM
 * yarn
 
-### 1 - ES6
+## First month - Prerequirements
 
-### 2 - TypeScript
+### 1 - ES6 and TypeScript
 
-### 3 - RxJs
+### 2 - RxJs
 
-### 4 - webpack
+### 3 - webpack
 
-### 5 - Angular CLI
+### 4 - Angular CLI
 
-### 6 - Angular Intro
+## Second month - Let's start with Angular
+
+### 1 - Angular Intro
 * File structure and basic files (index.html, main - entry, module, component, scss, html)
 * Bootstraping
 * NgModule
@@ -23,12 +25,14 @@
 * Feature modules
 * JIT
 
-### 7 - Components (probably in two parts)
+### 2 - Components (part I)
 * Component tree (smart and dummy components)
 * Create component
 * Input / Output
 * Events, Host binding
 * Two-Way binding
+
+### 3 - Components (part II)
 * Projection
 * Events (click, key, etc)
 * Template
@@ -39,21 +43,36 @@
  * ngClass
  * ngStyle
 
-### 8 - Directives
+### 4 - Directive
 * Attribute Directives
 * Structural Directives
+
+## Third month - Some more Angular
+
+### 1 - Basic routing
+
+### 2 - Modules
+
+### 3 - Building and RxJS
+* JIT
+* AOT
+
+* Observables and async
+* Http
+
+### 4 - Basic forms
+
+---
+
+### Directives
 * Custom directives
 
-### 9 - Modules
+### Modules
 * Dependecy Injection
 * NgModule
 * Feature module
 
-### 10 - Building
-* JIT
-* AOT
-
-### 11 - Advance
+### Advance
 * Lifecycle
 * @ViewChild and @ViewChildren
 * @ContentChild and @ContentChildren
@@ -62,17 +81,13 @@
 * Change Detection
 * Custom pipes
 
-### 12 - RxJs in Angular
-* Observables and async
-* Http
+### Advance Routing
 
-### 13 - Routing
+### Advance Forms
 
-### 14 - Forms
+### Ngrx
 
-### 15 - Ngrx
-
-### 16 - Internationalization
+### Internationalization
 
 ### 17 - Angular Material
 https://material.angular.io/
