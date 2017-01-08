@@ -1,19 +1,20 @@
 # Angular Slovenia workshops
 
-### 0 - Baisc tools (only reading material)
+### Baisc tools (only reading material)
 * Git
 * NodeJS andNPM
 * yarn
 
 ## First month - Prerequirements
 
-### 1 - ES6 and TypeScript
+### 1 - ES6 and TypeScript (Celtra & @nejczdovc)
 
 ### 2 - RxJs
 
 ### 3 - webpack
 
 ### 4 - Angular CLI
+
 
 ## Second month - Let's start with Angular
 
@@ -47,6 +48,7 @@
 * Attribute Directives
 * Structural Directives
 
+
 ## Third month - Some more Angular
 
 ### 1 - Basic routing
@@ -64,15 +66,15 @@
 
 ---
 
-### Directives
+**Directives**
 * Custom directives
 
-### Modules
+**Modules****
 * Dependecy Injection
 * NgModule
 * Feature module
 
-### Advance
+**Advance**
 * Lifecycle
 * @ViewChild and @ViewChildren
 * @ContentChild and @ContentChildren
@@ -81,13 +83,13 @@
 * Change Detection
 * Custom pipes
 
-### Advance Routing
+**Advance Routing**
 
-### Advance Forms
+**Advance Forms**
 
-### Ngrx
+**Ngrx**
 
-### Internationalization
+**Internationalization**
 
-### 17 - Angular Material
+**Angular Material**
 https://material.angular.io/
