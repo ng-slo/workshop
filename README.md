@@ -24,7 +24,7 @@
 * NgModule
 * Zone
 * Feature modules
-* JIT
+* JIT / AOT
 
 ### 2 - Components (part I)
 * Component tree (smart and dummy components)
@@ -65,6 +65,8 @@
 ### 4 - Basic forms
 
 ---
+
+## Other themes
 
 **Directives**
 * Custom directives
