@@ -1,4 +1,4 @@
-# Baisc tools
+# Basic tools
 
 ## Topics
 * Git (GitHub)
@@ -8,13 +8,13 @@
 ## Prerequirements
 
 ### Git
-Please install git onto your computer. You can find downloads link [here](https://git-scm.com/downloads).
+Please install git on your computer. You can find download links [here](https://git-scm.com/downloads).
 
 ### NodeJS
-Please install NodeJS onto your computer. You can find downloads link [here](https://nodejs.org/en/download/current/). (version 7.x)
+Please install NodeJS on your computer. You can find download links [here](https://nodejs.org/en/download/current/). (version 7.x)
 
 ### GitHub
-Please create account on GitHub. Registration form is [here](https://github.com/join).
+Please create an account on GitHub. Registration form is [here](https://github.com/join).
 
 ### SSH
-Please create SSH key and add it to your GitHub account. You have very detailed instructions [here](https://help.github.com/articles/connecting-to-github-with-ssh/).
+Please create SSH key and add it to your GitHub account. You can find detailed instructions [here](https://help.github.com/articles/connecting-to-github-with-ssh/).
