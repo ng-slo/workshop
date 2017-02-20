@@ -8,9 +8,12 @@ For all workshops, we will record theoretical part and upload slides. Recordings
 
 ## Next workshop
 
-#### [07.03.2017 at 18:00 - Basic tools](https://github.com/ng-slo/workshop/tree/master/01-basic-tools)
+#### [07.03.2017 at 18:00 at Marand - Basic tools](https://github.com/ng-slo/workshop/tree/master/01-basic-tools)
 * Theoretical part: [@nejczdovc](https://github.com/NejcZdovc)
 * Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
+
+## Locations
+* Marand - [Google maps](https://www.google.si/maps/place/Marand+d.o.o./@46.0328344,14.4834776,15z/data=!4m5!3m4!1s0x0:0x17ef4f29b9506011!8m2!3d46.0328344!4d14.4834776)
 
 ## Past workshops
 ...
