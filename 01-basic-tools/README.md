@@ -7,6 +7,9 @@
 
 ## Prerequirements
 
+### Basic knowledge of JavaScript
+Basic knowledge of JavaScript is required, because we will not be teach the basic JS, but will be building on top of it.
+
 ### Git
 Please install git on your computer. You can find download links [here](https://git-scm.com/downloads).
 
