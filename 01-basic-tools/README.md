@@ -1,6 +1,6 @@
 # Basic tools
 
-## Topics
+## Agenda
 * Git
 * GitHub
 * NodeJS and NPM
