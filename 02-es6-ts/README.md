@@ -15,7 +15,9 @@
 * TypeScript
 
 ## Links
-[ES6 the basics](http://slides.com/rokburgar/deck-2/fullscreen)
+
+* [ES6 the basics](http://slides.com/rokburgar/deck-2/fullscreen)
+* [Exercises](https://github.com/ng-slo/workshop/blob/master/02-es6-ts/exercises.md)
 
 ## Prerequirements
 
