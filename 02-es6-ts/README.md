@@ -1,28 +1,21 @@
 # ES and TypeScript
 
-## Topics
+## Agenda
 * ES6 the basics
+  1. Variables
+  2. New function syntax
+  3. Parameter handling
+  4. Destructuring assignment
+  5. Template literals
+  6. Classes
+  7. Promises
+  8. Some other usefull functions
+  9. Iterators, generator function
+  10. Modules
 * TypeScript
 
-## ES6
-
-### Agenda
-1. Variables
-2. New function syntax
-3. Parameter handling
-4. Destructuring assignment
-5. Template literals
-6. Classes
-7. Promises
-8. Some other usefull functions
-9. Iterators, generator function
-10. Modules
-
-### Slides
+## Links
 [ES6 the basics](http://slides.com/rokburgar/deck-2/fullscreen)
-
-## TypeScript
-
 
 ## Prerequirements
 
