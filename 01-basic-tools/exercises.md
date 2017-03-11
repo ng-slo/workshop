@@ -48,13 +48,11 @@
 1. Stay in the same repository as you were in exercise 5
 2. Create two branches `pr2` and `pr3` from the master
 3. Checkout branch `pr2`
-4. Shout **I AM DONE** and wait till you get a sign to proceed from the presenter
 5. Edit file `index.js` with the following changes (you can try it out with command `node index.js`)
     - change iteration of first `for` to 4
     - change `human` to your name
 6. Push this change to your fork
-7. Checkout the master and get the latest commit
-8. Go to your branch `pr2` and try to merge the master into this branch
+8. Go to your branch `pr2` and try to merge `conflict` branch into this branch
 9. Solve a conflict
 10. Create a merge commit and push it to your branch
 11. Create a pull request(PR) on forked repository
@@ -67,7 +65,7 @@
 4. Commit this file
 5. Edit file `index.js` with the following change: change `human` to your name
 5. Commit this file
-6. Rebase to the master branch
+6. Rebase to `conflict` branch
 7. Solve a conflict
 8. Squash this two commits 
 9. Create a pull request(PR) on forked repository
