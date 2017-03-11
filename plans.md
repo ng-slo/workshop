@@ -1,13 +1,13 @@
 # Angular Slovenia workshops
 
-### Baisc tools (only reading material)
+### Basic tools (only reading material)
 * Git
 * NodeJS andNPM
 * yarn
 
 ## First month - Prerequirements
 
-### 1 - ES6 and TypeScript (Celtra & @nejczdovc)
+### 1 - ES6 and TypeScript (@rokburgar (Celtra) & @nejczdovc)
 
 ### 2 - RxJs
 
