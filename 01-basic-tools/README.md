@@ -6,8 +6,9 @@
 * NodeJS and NPM
 
 ## Links
-[Slides](http://slides.com/ng-slo/workshop-1-basic-tools)
-[Exercises](https://github.com/ng-slo/workshop/blob/master/01-basic-tools/exercises.md)
+
+* [Slides](http://slides.com/ng-slo/workshop-1-basic-tools)
+* [Exercises](https://github.com/ng-slo/workshop/blob/master/01-basic-tools/exercises.md)
 
 ## Prerequirements
 
