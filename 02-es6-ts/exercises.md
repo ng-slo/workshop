@@ -28,3 +28,4 @@ Rewrite code from [exercise.js](https://github.com/ng-slo/workshop/blob/master/0
     - types (param types, variable types)
     - optional params
     - union types
+    - modules
