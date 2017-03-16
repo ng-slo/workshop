@@ -16,7 +16,7 @@
 
 ## Rewrite the code to Typescript
 
-Rewrite code from `exercise.js` to Typescript. Things that you will need to do:
+Rewrite code from [exercise.js](https://github.com/ng-slo/workshop/blob/master/02-es6-ts/exercise.js) to Typescript. Things that you will need to do:
 - create a typescript config 
 - create a typescript file
 - **NOT** use `any` type
