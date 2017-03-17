@@ -29,7 +29,7 @@ For all workshops, we will record theoretical part and upload slides. Recordings
 ## Past workshops
 
 #### 16.03.2017 at 18:00 at Marand - ES6 & Typescript
-* Theoretical part: [@nejczdovc](https://github.com/NejcZdovc) [@rokburgar](https://github.com/rokburgar) (Celtra) - **[Slides ES6](http://slides.com/rokburgar/deck-2)** **[Slides TS](https://slides.com/ng-slo/workshop-2-ts)**
+* Theoretical part: [@nejczdovc](https://github.com/NejcZdovc) [@rokburgar](https://github.com/rokburgar) (Celtra) - **[Slides ES6](http://slides.com/rokburgar/deck-2)**, **[Slides TS](https://slides.com/ng-slo/workshop-2-ts)**
 * Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski) [@rokburgar](https://github.com/rokburgar) - **[Exercises](https://github.com/ng-slo/workshop/blob/master/02-es6-ts/exercises.md)**
 
 #### 07.03.2017 at 18:00 at Marand - Basic tools
