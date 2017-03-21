@@ -1,7 +1,7 @@
 # Practical part
 
 
-## Rewrite callbacks, promises and observables!
+## Code callbacks, promises and observables!
 
 ### Exercise 1
 [Basic callback example](http://codepen.io/denkomanceski/pen/GWxJXw?editors=0012)
