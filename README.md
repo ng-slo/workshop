@@ -8,10 +8,6 @@ For all workshops, we will record theoretical part and upload slides. Recordings
 
 ## Next workshops
 
-#### 21.03.2017 at 18:00 at Marand - RxJS
-* Theoretical part:  [@denkomanceski](https://github.com/denkomanceski)
-* Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
-
 #### 28.03.2017 at 18:00 at Marand - Angular CLI
 * Theoretical part: [@Brocco](https://github.com/Brocco) (core member of Angular CLI team)
 * Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
@@ -27,6 +23,10 @@ For all workshops, we will record theoretical part and upload slides. Recordings
 * Marand - [Google maps](https://www.google.si/maps/place/Marand+d.o.o./@46.0328344,14.4834776,15z/data=!4m5!3m4!1s0x0:0x17ef4f29b9506011!8m2!3d46.0328344!4d14.4834776)
 
 ## Past workshops
+
+#### 21.03.2017 at 18:00 at Marand - RxJS
+* Theoretical part:  [@denkomanceski](https://github.com/denkomanceski) - **[Slide](http://slides.com/ng-slo/workshop-2-ts-4)**
+* Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski) - **[Exercises](https://github.com/ng-slo/workshop/blob/master/03-async-rxjs/exercises.md)**
 
 #### 16.03.2017 at 18:00 at Marand - ES6 & Typescript
 * Theoretical part: [@nejczdovc](https://github.com/NejcZdovc) [@rokburgar](https://github.com/rokburgar) (Celtra) - **[Slides ES6](http://slides.com/rokburgar/deck-2)**, **[Slides TS](https://slides.com/ng-slo/workshop-2-ts)**
