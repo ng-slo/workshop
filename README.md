@@ -33,5 +33,5 @@ For all workshops, we will record theoretical part and upload slides. Recordings
 * Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski) [@rokburgar](https://github.com/rokburgar) - **[Exercises](https://github.com/ng-slo/workshop/blob/master/02-es6-ts/exercises.md)**
 
 #### 07.03.2017 at 18:00 at Marand - Basic tools
-* Theoretical part: [@nejczdovc](https://github.com/NejcZdovc) - **[Slides](slides.com/ng-slo/workshop-1-basic-tools)**
+* Theoretical part: [@nejczdovc](https://github.com/NejcZdovc) - **[Slides](http://slides.com/ng-slo/workshop-1-basic-tools#/)**
 * Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski) - **[Exercises](https://github.com/ng-slo/workshop/blob/master/01-basic-tools/exercises.md)**
