@@ -25,7 +25,7 @@ For all workshops, we will record theoretical part and upload slides. Recordings
 ## Past workshops
 
 #### 21.03.2017 at 18:00 at Marand - RxJS
-* Theoretical part:  [@denkomanceski](https://github.com/denkomanceski) - **[Slide](http://slides.com/ng-slo/workshop-2-ts-4)**
+* Theoretical part:  [@denkomanceski](https://github.com/denkomanceski) - **[Slides](http://slides.com/ng-slo/workshop-2-ts-4)**
 * Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski) - **[Exercises](https://github.com/ng-slo/workshop/blob/master/03-async-rxjs/exercises.md)**
 
 #### 16.03.2017 at 18:00 at Marand - ES6 & Typescript
