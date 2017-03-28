@@ -16,7 +16,7 @@ Create your first project with Angular CLI, explore the folder structure of the 
 Run newly created project to see what was created for you
 
 ### Exercise 4
-Create new component and add it to your entry component (`app.compoenent.html`)
+Create new component and add it to your entry component (`app.component.html`)
 
 ### Exercise 5
 Create new component that is inside the `test` folder, add this component to the `test component`
