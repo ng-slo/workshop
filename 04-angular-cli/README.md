@@ -6,7 +6,7 @@
 ## Links
 
 * [Slides](#)
-* [Exercises](#)
+* [Exercises](https://github.com/ng-slo/workshop/blob/master/04-angular-cli/exercises.md)
 
 ## Prerequirements
 
