@@ -5,7 +5,6 @@
 
 ## Links
 
-* [Slides](#)
 * [Exercises](https://github.com/ng-slo/workshop/blob/master/05-webpack/exercises.md)
 
 ## Prerequirements
