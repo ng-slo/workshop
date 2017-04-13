@@ -17,3 +17,7 @@ It is highly recommended to install globaly http-server (`npm install -g http-se
 It is recommended to install webpack globally with: `npm install -g webpack` or the alternative is to install it locally and than use `npm run webpack`
 
 
+### Clone the repo
+`git clone https://github.com/denkomanceski/webpack-workshop`
+
+

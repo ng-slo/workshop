@@ -1,5 +1,6 @@
 # Practical part
 
+
 **Before you start please check if you have all of the [prerequirements](https://github.com/ng-slo/workshop/tree/master/04-angular-cli#prerequirements) done.**
 
 ## Webpack
