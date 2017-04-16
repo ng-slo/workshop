@@ -18,35 +18,35 @@
 
 ## Second month - Let's start with Angular
 
-### 1 - Angular Intro
+### 1 - Components (part I)
 * File structure and basic files (index.html, main - entry, module, component, scss, html)
+* Simple component
+* Template
+* Variables
+* Events (click, key, etc)
+* Input / Output
+* Component tree (smart and dummy components)
+
+### 2 - Angular Intro
 * Bootstraping
 * NgModule
 * Zone
 * Feature modules
 * JIT / AOT
 
-### 2 - Components (part I)
-* Component tree (smart and dummy components)
-* Create component
-* Input / Output
-* Events, Host binding
-* Two-Way binding
-
 ### 3 - Components (part II)
 * Projection
-* Events (click, key, etc)
-* Template
- * variables
- * ngIf, ngFor, switch
- * pipes (usage)
- * attributes [attr...]
- * ngClass
- * ngStyle
+* Two-Way binding
+* Events, Host binding
+* pipes (usage)
+* attributes [attr...]
+* ngClass
+* ngStyle
 
 ### 4 - Directive
 * Attribute Directives
 * Structural Directives
+* ngIf, ngFor, switch
 
 
 ## Third month - Some more Angular
