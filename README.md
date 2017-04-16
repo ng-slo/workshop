@@ -8,8 +8,12 @@ For all workshops, we will record theoretical part and upload slides. Recordings
 
 ## Next workshops
 
-#### 13.04.2017 at 18:00 - webpack
-* Theoretical part: [@TheLarkInn](https://github.com/TheLarkInn) (core member of webpack team)
+#### 20.04.2017 at 18:00 - Angular component |
+* Theoretical part: [@nejczdovc](https://github.com/NejcZdovc)
+* Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
+
+#### 25.04.2017 at 18:00 - Angular intro
+* Theoretical part: [@denkomanceski](https://github.com/NejcZdovc)
 * Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
 
 #### more workshops comming soon..
@@ -18,6 +22,10 @@ For all workshops, we will record theoretical part and upload slides. Recordings
 * Marand - [Google maps](https://www.google.si/maps/place/Marand+d.o.o./@46.0328344,14.4834776,15z/data=!4m5!3m4!1s0x0:0x17ef4f29b9506011!8m2!3d46.0328344!4d14.4834776)
 
 ## Past workshops
+
+#### 13.04.2017 at 18:00 - webpack
+* Theoretical part: [@TheLarkInn](https://github.com/TheLarkInn) (core member of webpack team)
+* Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski) - **[Exercises](https://github.com/ng-slo/workshop/blob/master/05-webpack/exercises.md)**
 
 #### 28.03.2017 at 18:00 at Marand - Angular CLI
 * Theoretical part: [@Brocco](https://github.com/Brocco) (core member of Angular CLI team)
