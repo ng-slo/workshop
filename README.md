@@ -12,7 +12,7 @@ For all workshops, we will record theoretical part and upload slides. Recordings
 * Theoretical part: [@nejczdovc](https://github.com/NejcZdovc)
 * Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
 
-#### 25.04.2017 at 18:00 - Angular intro
+#### 25.04.2017 at 18:00 - Angular details
 * Theoretical part: [@denkomanceski](https://github.com/NejcZdovc)
 * Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
 
