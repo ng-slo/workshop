@@ -25,9 +25,9 @@
 * Variables
 * Events (click, key, etc)
 * Input / Output
-* Component tree (smart and dummy components)
 
 ### 2 - Angular Intro
+* Component tree (smart and dummy components)
 * Bootstraping
 * NgModule
 * Zone
