@@ -24,6 +24,7 @@
 * Template
 * Variables
 * Events (click, key, etc)
+* Baisc structural directives (ngIf and ngFor)
 * Input / Output
 
 ### 2 - Angular Intro
