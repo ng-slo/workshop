@@ -7,7 +7,8 @@
 	3. Template
 	4. Variables
 	5. Simple events
-	6. Input/Outputs
+	6. Structural directives
+	7. Input/Outputs
 
 ## Links
 
