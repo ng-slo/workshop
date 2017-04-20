@@ -18,7 +18,7 @@ Example of an object:
 const treeItem = {
     firstName: 'John',
     lastName: 'Smith',
-    image: 'https://randomuser.me/api/portraits/yy/xx.jpg' // xx is a random number, yy can be values men or women
+    image: 'https://randomuser.me/api/portraits/yy/xx.jpg', // xx is a random number, yy can be values men or women
     connection: 'brother',
     level: 1
 }
