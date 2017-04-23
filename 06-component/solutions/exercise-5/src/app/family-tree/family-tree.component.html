@@ -1,0 +1,10 @@
+<h1>Family tree by {{ me.fisrtName }} {{ me.lastName }}</h1>
+
+<family-level [family]="familyThree" (levelLoved)="onLevelLoved($event)"></family-level>
+<family-level [family]="familyTwo" (levelLoved)="onLevelLoved($event)"></family-level>
+<family-level [family]="familyOne" (levelLoved)="onLevelLoved($event)"></family-level>
+
+<div class="total">
+  Loved by {{ totalLove }}
+  <span *ngIf="lastLoved.length > 0">, last loved by {{ lastLoved }}</span>
+</div>

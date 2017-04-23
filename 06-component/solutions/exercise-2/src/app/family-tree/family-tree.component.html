@@ -1,0 +1,25 @@
+<h1>Family tree by {{ me.fisrtName }} {{ me.lastName }}</h1>
+
+<div class="itemWrap">
+  <div class="item" *ngFor="let person of familyThree">
+    <img src="{{ person.image }}" />
+    <h2>{{ person.firstName }} {{ person.lastName }}</h2>
+    <p>{{ person.connection }}</p>
+  </div>
+</div>
+
+<div class="itemWrap">
+  <div class="item" *ngFor="let person of familyTwo">
+    <img src="{{ person.image }}" />
+    <h2>{{ person.firstName }} {{ person.lastName }}</h2>
+    <p>{{ person.connection }}</p>
+  </div>
+</div>
+
+<div class="itemWrap">
+  <div class="item" *ngFor="let person of familyOne">
+    <img src="{{ person.image }}" />
+    <h2>{{ person.firstName }} {{ person.lastName }}</h2>
+    <p>{{ person.connection }}</p>
+  </div>
+</div>
