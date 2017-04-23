@@ -1,0 +1,20 @@
+:host {
+  max-width: 1000px;
+  margin: 0 auto;
+  display: block;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.itemWrap {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.item {
+  flex-grow: 1;
+  text-align: center;
+}

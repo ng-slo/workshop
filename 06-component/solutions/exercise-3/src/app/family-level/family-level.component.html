@@ -1,0 +1,7 @@
+<div class="itemWrap">
+  <div class="item" *ngFor="let person of family">
+    <img src="{{ person.image }}" />
+    <h2>{{ person.firstName }} {{ person.lastName }}</h2>
+    <p>{{ person.connection }}</p>
+  </div>
+</div>
