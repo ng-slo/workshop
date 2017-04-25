@@ -19,11 +19,10 @@ For creating components, modules use angular cli
  - ng g c -> creates components
  - ng g m -> creates module**
 
-## Building ANgular
+## Building Angular
 
-### Exercise 1
+## Exercise 1
 Create 3 components (test, hello, goodbye) and put them into the root component.
-
 
 ## Exercise 2
 Put hello and goodbye on the same level inside the test component
