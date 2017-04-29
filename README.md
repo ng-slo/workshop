@@ -8,12 +8,8 @@ For all workshops, we will record theoretical part and upload slides. Recordings
 
 ## Next workshops
 
-#### 20.04.2017 at 18:00 at FRI P21 - Angular component |
+#### 09.05.2017 at 18:00 at FRI P21 - Angular component ||
 * Theoretical part: [@nejczdovc](https://github.com/NejcZdovc)
-* Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
-
-#### 25.04.2017 at 18:00 - Angular details
-* Theoretical part: [@denkomanceski](https://github.com/NejcZdovc)
 * Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
 
 #### more workshops comming soon..
@@ -23,6 +19,14 @@ For all workshops, we will record theoretical part and upload slides. Recordings
 * FRI - [Google maps](https://www.google.si/maps/place/Fakulteta+za+ra%C4%8Dunalni%C5%A1tvo+in+informatiko/@46.0501557,14.4689205,15z/data=!4m5!3m4!1s0x0:0xf3614360b12cc862!8m2!3d46.0501557!4d14.4689205)
 
 ## Past workshops
+
+#### 25.04.2017 at 18:00 - Building Angular
+* Theoretical part: [@denkomanceski](https://github.com/denkomanceski) - **[Slides](https://slides.com/ng-slo/workshop-7-building-angular)**
+* Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski) - **[Exercises](https://github.com/ng-slo/workshop/blob/master/07-building-angular/exercises.md)**
+
+#### 20.04.2017 at 18:00 at FRI P21 - Angular component |
+* Theoretical part: [@nejczdovc](https://github.com/NejcZdovc) - **[Slides](https://slides.com/ng-slo/workshop-6-component)**
+* Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski) - **[Exercises](https://github.com/ng-slo/workshop/blob/master/06-component/exercises.md)**
 
 #### 13.04.2017 at 18:00 at FRI P19 - webpack
 * Theoretical part: [@TheLarkInn](https://github.com/TheLarkInn) (core member of webpack team)
