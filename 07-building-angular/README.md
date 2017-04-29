@@ -11,7 +11,7 @@
 
 ## Links
 
-* [Slides](http://slides.com/ng-slo/workshop-6-component-5)
+* [Slides](https://slides.com/ng-slo/workshop-7-building-angular)
 * [Exercises](https://github.com/ng-slo/workshop/blob/master/07-building-angular/exercises.md)
 * [Exercises repository](https://github.com/denkomanceski/building-angular-workshop)
 
