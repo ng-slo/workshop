@@ -20,7 +20,7 @@ For all workshops, we will record theoretical part and upload slides. Recordings
 
 ## Past workshops
 
-#### 25.04.2017 at 18:00 - Building Angular
+#### 25.04.2017 at 18:00 at FRI P21 - Building Angular
 * Theoretical part: [@denkomanceski](https://github.com/denkomanceski) - **[Slides](https://slides.com/ng-slo/workshop-7-building-angular)**
 * Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski) - **[Exercises](https://github.com/ng-slo/workshop/blob/master/07-building-angular/exercises.md)**
 
