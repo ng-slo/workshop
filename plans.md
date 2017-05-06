@@ -43,48 +43,34 @@
 * attributes [attr...]
 * ngClass
 * ngStyle
+* ngSwitch
+* Encapsulation
 
-### 4 - Directive
+### 4 - Components (part III)
 * Attribute Directives
-* Structural Directives
-* ngIf, ngFor, switch
+* Dependecy Injection
+* ElementRef
+* Change Detection
+* Custom directives
+* Custom pipes
 
 
 ## Third month - Some more Angular
 
-### 1 - Basic routing
+### 1 - Routing
 
-### 2 - Modules
-
-### 3 - Building and RxJS
-* JIT
-* AOT
-
+### 2 - Building and RxJS
+* Lifecycle
 * Observables and async
 * Http
-
-### 4 - Basic forms
 
 ---
 
 ## Other themes
 
-**Directives**
-* Custom directives
-
-**Modules**
-* Dependecy Injection
-* NgModule
-* Feature module
-
 **Advance**
-* Lifecycle
 * @ViewChild and @ViewChildren
 * @ContentChild and @ContentChildren
-* Encapsulation
-* ElementRef
-* Change Detection
-* Custom pipes
 
 **Advance Routing**
 
