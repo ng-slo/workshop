@@ -12,6 +12,18 @@ For all workshops, we will record theoretical part and upload slides. Recordings
 * Theoretical part: [@nejczdovc](https://github.com/NejcZdovc)
 * Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
 
+#### 16.05.2017 at 18:00 at FRI P21 - Angular component |||
+* Theoretical part: [@denkomanceski](https://github.com/denkomanceski)
+* Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
+
+#### 23.05.2017 at 18:00 at FRI P21 - Routing
+* Theoretical part: [@nejczdovc](https://github.com/NejcZdovc)
+* Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
+
+#### 30.05.2017 at 18:00 at FRI P21 - Living in Angular
+* Theoretical part: [@denkomanceski](https://github.com/denkomanceski)
+* Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
+
 #### more workshops comming soon..
 
 ## Locations
