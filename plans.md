@@ -59,7 +59,7 @@
 
 ### 1 - Routing
 
-### 2 - Building and RxJS
+### 2 - Living in Angular
 * Lifecycle
 * Observables and async
 * Http
