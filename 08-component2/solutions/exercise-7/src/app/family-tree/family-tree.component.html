@@ -1,0 +1,30 @@
+<h1>Family tree by {{ me.firstName }} {{ me.lastName }}</h1>
+
+<family-level
+  [family]="familyThree"
+  [editMode]="editMode"
+  (levelLoved)="onLevelLoved($event)"
+  (onAddFamily)="addFamily($event, 3)"
+></family-level>
+<family-level
+  [family]="familyTwo"
+  [editMode]="editMode"
+  (levelLoved)="onLevelLoved($event)"
+  (onAddFamily)="addFamily($event, 2)"
+></family-level>
+<family-level
+  [family]="familyOne"
+  [editMode]="editMode"
+  (levelLoved)="onLevelLoved($event)"
+  (onAddFamily)="addFamily($event, 1)"
+></family-level>
+
+<div class="total">
+  Loved by {{ totalLove }}
+  <span *ngIf="lastLoved.length > 0">, last loved by {{ lastLoved }}</span>
+</div>
+
+<button class="editMode" [ngSwitch]="editMode" (click)="toggleEdit()">
+  <span *ngSwitchCase="true">Stop editing</span>
+  <span *ngSwitchCase="false">Start editing</span>
+</button>

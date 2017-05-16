@@ -1,0 +1,27 @@
+<div class="itemWrap">
+  <div class="item" *ngFor="let person of family">
+    <family-person [person]="person" (personLoved)="onPersonLoved($event)"></family-person>
+  </div>
+  <div class="item itemAdd" *ngIf="editMode">
+    <div>
+      <label>First name</label><input type="text">
+    </div>
+    <div>
+      <label>Last name</label><input type="text">
+    </div>
+    <div>
+      <label>Connection</label><input type="text">
+    </div>
+    <div>
+      <label>Gender</label>
+      <select>
+        <option value="men">Male</option>
+        <option value="women">Female</option>
+      </select>
+    </div>
+    <div>
+      <label>Image num</label><input type="text">
+    </div>
+    <button>Add person</button>
+  </div>
+</div>

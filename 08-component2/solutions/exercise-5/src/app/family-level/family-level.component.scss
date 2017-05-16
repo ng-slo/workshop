@@ -1,0 +1,37 @@
+.itemWrap {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.item {
+  flex-grow: 1;
+  text-align: center;
+}
+
+.itemAdd {
+  text-align: center;
+  margin: 10px 0 30px;
+
+  div {
+    margin-bottom: 10px;
+    display: flex;
+  }
+
+  label {
+    display: inline-block;
+    width: 80px;
+    padding-right: 5px;
+  }
+
+  button {
+    border: 1px solid #dcdcdc;
+    border-radius: 4px;
+    background: none;
+    padding-bottom: 5px;
+    margin-top: 10px;
+
+    &:hover {
+      background: #dcdcdc;
+    }
+  }
+}

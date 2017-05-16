@@ -1,0 +1,22 @@
+:host {
+  display: block;
+
+  &:hover {
+    cursor: pointer;
+
+    .love span {
+      color: #000;
+    }
+  }
+}
+
+.love {
+  span {
+    color: #f00;
+  }
+}
+
+
+button {
+  color: #f00;
+}
