@@ -16,8 +16,6 @@ For all workshops, we will record theoretical part and upload slides. Recordings
 * Theoretical part: [@denkomanceski](https://github.com/denkomanceski)
 * Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
 
-#### more workshops comming soon..
-
 ## Locations
 * Marand - [Google maps](https://www.google.si/maps/place/Marand+d.o.o./@46.0328344,14.4834776,15z/data=!4m5!3m4!1s0x0:0x17ef4f29b9506011!8m2!3d46.0328344!4d14.4834776)
 * FRI - [Google maps](https://www.google.si/maps/place/Fakulteta+za+ra%C4%8Dunalni%C5%A1tvo+in+informatiko/@46.0501557,14.4689205,15z/data=!4m5!3m4!1s0x0:0xf3614360b12cc862!8m2!3d46.0501557!4d14.4689205)
